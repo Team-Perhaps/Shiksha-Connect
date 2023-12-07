@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "New message from John Doe: 'Meeting agenda for today.'",
+    "topic": "Messages"
+  },
+  {
+    "id": 2,
+    "text": "Reminder: Meeting with the curriculum development team at 2 PM.",
+    "topic": "Meetings"
+  },
+  {
+    "id": 3,
+    "text": "New course uploaded: 'Introduction to Data Science.'",
+    "topic": "Courses"
+  },
+  {
+    "id": 4,
+    "text": "Your account has been approved. You can now access all features.",
+    "topic": "Account"
+  },
+  {
+    "id": 5,
+    "text": "Reminder: Complete your profile information for better recommendations.",
+    "topic": "Profile"
+  }
+]

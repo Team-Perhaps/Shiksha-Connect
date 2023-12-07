@@ -1,0 +1,2996 @@
+                    Syllabus
+
+           B. Tech Information Technology
+          (Second Year Semester III and IV)
+
+                      From
+          Academic Year 2021-22
+
+                 (Revision-1)
+
+Approved by FOET 08/05/2021 and AC 28/06/2021
+               SY B. Tech IT Revision 1.0
+                                             Somaiya Vidyavihar University
+                                  K. J. Somaiya College of Engineering, Mumbai -77
+
+                                             (A Constituent College of Somaiya Vidyavihar University)
+
+It is notified for information of all concerned that the Board of Studies at its meeting held on May
+03,2021, and the subsequent meeting of Faculty of Engineering & Technology held on May 08,
+2021 and the Academic Council held on June 28, 2021 amended the syllabus of SY B. Tech IT and
+same be brought in to force from Academic Year 2021-22 with immediate effect.
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021  Page 2 of 63
+                                             Somaiya Vidyavihar University
+                                  K. J. Somaiya College of Engineering, Mumbai -77
+
+                                             (A Constituent College of Somaiya Vidyavihar University)
+
+                                              Preamble
+
+Technology is an integral part of everyday life. An Engineering education in Information
+Technology gives broad exposure to various technical subjects that develop skills that are
+transferable to most industries such as problem solving, decision making, innovation, project
+management, team working and communication which will contribute to a rapidly changing
+technological environment.
+
+Academic Autonomy conferred by the University of Mumbai from the Academic Year 2014-15,
+gave us the freedom to develop and implement our own curriculum KJSCE2014 with features such
+as inclusion of choice based Interdisciplinary Course (IDC), Audit Courses, Add on Credit Courses,
+Add on Audit Courses, Exposure Courses, etc. Our revision in syllabus KJSCE2018, was
+introduced from the academic year 2018-19, has been designed based on the revised AICTE
+guidelines as well as various accrediting bodies. Some of the highlights of the KJSCE2018 syllabus
+are: more focus on hands on, wide choice for branch specific electives, more number of open or
+interdisciplinary electives, streamlined courses based on thrust areas, increased opportunity for
+internships, etc. Laboratory courses like Programming labs will enhance the practical skills of the
+students.
+
+With the formulation of Somaiya Vidyavihar University, the curriculum of SVU 2020 started from
+the academic year 2020-2021. Some of the highlights are introduction of Minor degree, Honor
+degree. More option for programming Laboratory courses including a course of Competitive
+Programming laboratories to prepare the students better in terms of programming skills.
+
+We at IT department of KJSCE endeavor continuously to enable our students to move forward and
+confidently embrace change rather than follow; to innovate rather than stagnate and to initiate
+rather respond to become efficient technocrats and dynamic entrepreneurs.
+
+                                                                                               Dr. Irfan Siddavatam
+                                                                 Head, Department of Information Technology
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021  Page 3 of 63
+                                             Somaiya Vidyavihar University
+                                  K. J. Somaiya College of Engineering, Mumbai -77
+
+                                             (A Constituent College of Somaiya Vidyavihar University)
+
+Vision
+
+To become a center of excellence for holistic education by preparing world class professionals in
+the dynamic field of Information Technology.
+
+Mission
+
+Providing quality education to
+   ● Develop competent IT professionals with ethical values and enable them in lifelong
+         learning.
+   ● Promote conducive ambience for research and creativity.
+
+Program Educational Objectives (PEO)
+
+A graduate of Information Technology will
+    PEO1: Excel in professional career and contribute to social needs through Information
+             Technology
+    PEO2: Pursue higher education, conduct research, demonstrate professionalism and ethics
+    PEO3: Exhibit innovation, adaptability, team work, leadership and communication skills
+
+Program Outcomes (PO):
+
+Engineering Graduates will be able to:
+
+PO1: Engineering knowledge: Apply the knowledge of mathematics, science, engineering
+fundamentals, and an engineering specialization to the solution of complex engineering problems.
+
+PO2: Problem analysis: Identify, formulate, review research literature, and analyze complex
+engineering problems reaching substantiated conclusions using first principles of mathematics,
+natural sciences, and engineering sciences.
+
+PO3: Design/development of solutions: Design solutions for complex engineering problems and
+design system components or processes that meet the specified needs with appropriate
+consideration for the public health and safety, and the cultural, societal, and environmental
+considerations.
+
+PO4: Conduct investigations of complex problems: Use research-based knowledge and research
+
+methods including design of experiments, analysis and interpretation of data, and synthesis of the
+
+information to provide valid conclusions.
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021  Page 4 of 63
+                                             Somaiya Vidyavihar University
+                                  K. J. Somaiya College of Engineering, Mumbai -77
+
+                                             (A Constituent College of Somaiya Vidyavihar University)
+
+PO5: Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern
+engineering and IT tools including prediction and modeling to complex engineering activities with
+an understanding of the limitations.
+
+PO6: The engineer and society: Apply reasoning informed by the contextual knowledge to assess
+societal, cultural, environmental, health, safety and legal issues relevant to the professional
+engineering practice; understanding the need of sustainable development.
+
+PO7: Multidisciplinary competence: Recognize/ study/ analyze/ provide solutions to real-
+life problems of multidisciplinary nature from diverse fields.
+
+PO8: Ethics: Apply ethical principles and commit to professional ethics and responsibilities and
+norms of the engineering practice.
+
+PO9: Individual and team work: Function effectively as an individual, and as a member or leader
+in diverse teams, and in multidisciplinary settings.
+
+PO10: Communication: Communicate effectively on complex engineering activities with the
+engineering community and with society at large, such as, being able to comprehend and write
+effective reports and design documentation, make effective presentations, and give and receive
+clear instructions.
+
+PO11: Project management and finance: Demonstrate knowledge and understanding of the
+engineering and management principles and apply these to one’s own work, as a member and
+leader in a team, to manage projects and in multidisciplinary environments.
+
+PO12: Life-long learning: Recognize the need for, and have the preparation and ability to engage
+in independent and life-long learning in the broadest context of technological change.
+
+Program Specific Outcomes
+
+PSO 1: Articulate, design, implement reliable, scalable, secure IT based solutions using latest
+practices and technologies.
+
+PSO 2: Demonstrate competency of data analytics, interpretation, artificial intelligence in design
+and development of software systems.
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021  Page 5 of 63
+                                Somaiya Vidyavihar University
+                      K. J. Somaiya College of Engineering, Mumbai -77
+
+                        (A Constituent College of Somaiya Vidyavihar University)
+
+    Acronym for category of courses         Acronyms used in syllabus document
+
+Acronym               Definition        Acronym    Definition
+
+BS       Basic Science Course           CA         Continuous Assessment
+
+ES       Engineering Science            ESE        End Semester Exam
+
+HS       Humanities and Social Science  IA         Internal Assessment
+
+         including Management Course
+
+PC       Professional Core Course       O          Oral
+                                        P          Practical
+PE       Professional Elective Course   P&O        Practical and Oral
+                                        TH         Theory
+OE       Open Elective Course           TUT        Tutorial
+                                        TW         Term work
+LC       Laboratory Course              ISE        In Semester Examination
+                                        CO         Course Outcome
+PR       Project                        PO         Program Outcome
+                                        PSO        Program Specific Outcome
+AC       Audit Course
+
+AOCC     Add on Credit Course
+
+AOAC     Add on Audit Course
+
+AVAC     Add on Value Audit Course
+
+EX       Exposure Course
+
+                      Acronyms used in Course code e.g. 116U04C301
+
+      Acronym                                             Definition
+Serially as per code
+                                  First revision after Somaiya Vidyavihar University
+           1                                    ( First revision SVU 2020)
+
+           16                             K J Somaiya College of Engineering
+           U                                           Undergraduate
+           04
+           C                            Department of Information Technology
+           L                                             Core Course
+           T
+           E                                         Laboratory Course
+           S                                               Tutorial
+           M
+           3                                           Elective Course
+           01                                           Open Elective
+                                              Mandatory Non Credit Course
+                                               3- Semester 3 / 4- Semester 4
+
+                                                         Course No.
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                     Page 6 of 63
+                                  Somaiya Vidyavihar University
+                        K. J. Somaiya College of Engineering, Mumbai -77
+
+                          (A Constituent College of Somaiya Vidyavihar University)
+
+                                      Semester III
+
+                                      Credit Scheme
+
+Course Code        Course Name        Teaching         Total   Credits               Total    Course
+                                       Scheme          (Hrs.)  Assigned             Credits  Category
+116U04C301     Discrete and Applied     (Hrs.)                  TH–P–
+116U04C302     Mathematics             TH–P–             04                            04        BS
+                                                                 TUT
+               Data Structures$         TUT
+                                      3–0–1                    3–0–1
+
+                                      3 – 0 – 0 03 3 – 0 – 0 03                              PC
+
+116U04C303 Database Management        3 – 0 – 0 03 3 – 0 – 0 03                              PC
+
+               Systems
+
+116U04C304 Digital Systems            3 – 0 – 0 03 3 – 0 – 0 03                              PC
+
+116U04C305 Data Communication and 3 – 0 – 0 03 3 – 0 – 0 03                                  PC
+
+               Networking
+
+116U04 L301 Programming Laboratory 0 – 2 – 1 03 0 – 1 – 1 02                                 LC
+
+               I@
+
+116U04L302 Data Structures            0 – 2 – 0 02 0 – 1 – 0 01                              PC
+                     Laboratory
+
+116U04L303 Database Management        0 – 2 – 0 02 0 – 1 – 0 01                              PC
+
+               Systems Laboratory
+
+116U04L304 Digital Systems            0 – 2 – 0 02 0 – 1 – 0 01                              PC
+                     Laboratory
+
+116U04L305 Data Communication and 0 – 2 – 0 02 0 – 1 – 0 01                                  PC
+
+               Networking Laboratory
+
+Total                                 15-10-02 27 15-05-02 22
+
+@ Students will have a choice of Java Programming or Python Plus Language or C++
+$ Course common with Computer Engineering
+
+SVU2020- R1.0              SY B.Tech IT AC 28/06/2021                                        Page 7 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+                              Examination Scheme
+
+Course         Course Name                       Examination Scheme
+Code                                                       Marks
+
+116U04C301 Discrete and Applied           CA   ESE TW O% P P&O# Total
+                   Mathematics
+                                       ISE IA   50 25 -- -- -- 125
+116U04C302 Data Structures$            30 20
+
+                                       30 20 50 -- -- -- -- 100
+
+116U04C303 Database Management         30 20 50 -- -- -- -- 100
+                   Systems
+
+116U04C304 Digital Systems             30 20 50 -- -- -- -- 100
+
+116U04C305 Data Communication and      30 20 50 -- -- -- -- 100
+                   Networking
+
+116U04         Programming Laboratory I @ -- -- -- 50* -- -- 25                   75
+L301
+
+116U04L302 Data Structures Laboratory --       -- 25 -- - 25 50
+
+116U04L303 Database Management         -- -- -- 25 -- -- 25 50
+                   Systems Laboratory
+
+116U04L304 Digital Systems Laboratory -- -- -- 25 25 -- --                        50
+
+116U04L305 Data Communication and      -- -- -- 25 25 -- --                       50
+
+               Networking Laboratory
+
+Total                                  150 100 250 175 50 -- 75 800
+
+$ Course common with Computer Engineering
+@ Students will have a choice of Java Programming or Python Plus Language or C++
+% Oral examination based on entire theory syllabus
+# Practical and Oral examination based on syllabus
+* Term Work based on continuous assessment
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                         Page 8 of 63
+                               Somaiya Vidyavihar University
+                     K. J. Somaiya College of Engineering, Mumbai -77
+
+                       (A Constituent College of Somaiya Vidyavihar University)
+
+                                     Semester IV
+
+                                     Credit Scheme
+
+Course         Course Name           Teaching           Total    Credits          Total Course
+ Code                                 Scheme            (Hrs.)  Assigned         Credits Category
+                                       (Hrs.)                   TH – P –
+                                     TH – P –
+                                                                  TUT
+                                       TUT
+116U04C401 Probability, Statistics   3–0–1              04 3 – 0 – 1 04          BS
+
+                   and Optimization  3–0–1
+                   Techniques $      3–0–0
+                                     3–0–0
+116U04C402 Information Theory         0 – 2– 2          04 3 – 0 – 1 04          PC
+                   and Coding
+                                     0–2–2
+116U04C403 Analysis         of                          03 3 – 0 – 0 03          PC
+                                     0–2–0
+               Algorithms
+                                     0–2–0
+116U04C404 Advanced Databases        12-08-06           03 3 – 0 – 0 03          PC
+
+116U04L401 Competitive                                  04 0 – 1 – 2 03          LC
+
+               Programming
+
+               Laboratory
+
+116U04L402 Web Programming –                            04 0 – 1 – 2 03          LC
+                   I
+
+               Laboratory
+
+116U04L403 Analysis         of                          02 0 – 1 – 0 01          PC
+
+               Algorithms
+
+               Laboratory
+
+116U04L404 Advanced Databases                           02 0 – 1 – 0 01          PC
+                   Laboratory
+
+Total                                                   26 12-04-06 22
+
+$ Course common with Computer Engineering
+
+SVU2020- R1.0               SY B.Tech IT AC 28/06/2021                           Page 9 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+                             Examination Scheme
+
+Course         Course Name                                  Examination Scheme
+
+Code                                                              Marks
+
+                                                    CA ESE TW O% P P&O# Total
+
+                                                    ISE IA
+
+116U04C401 Probability, Statistics and 30 20 50 25                         ––   –  125
+                   Optimization Techniques$
+
+116U04C402 Information Theory and 30 20 50 25 – – –                                125
+                   Coding
+
+116U04C403 Analysis of Algorithms                   30 20 50 -- – – – 100
+
+116U04C404 Advanced Databases                       30 20 50 -- – – – 100
+
+116U04L401 Competitive Programming                                      50* -- -- 50 100
+                   Laboratory                       -- -- --
+
+116U04L402 Web Programming                          – -- -- -- 50* – – 50 100
+                   I Laboratory
+
+116U04L403 Analysis of Algorithms                   --                     –
+                   Laboratory
+                                                        -- -- 25              -- 25 50
+
+116U04L404 Advanced Databases                       --                     –
+                   Laboratory
+                                                        -- -- 25              -- 25 50
+
+Total                                               120 80 200 200 -- -- 150       750
+
+$ Course common with Computer Engineering
+% Oral examination based on entire theory syllabus
+# Practical and Oral examination based on syllabus
+* Term Work based on continuous assessment
+
+SVU2020- R1.0               SY B.Tech IT AC 28/06/2021                          Page 10 of 63
+                               Somaiya Vidyavihar University
+                    K. J. Somaiya College of Engineering, Mumbai -77
+
+                        (A Constituent College of Somaiya Vidyavihar University)
+
+                        Semester III
+
+               SY B. Tech. Information Technology
+
+                        (KJSCE SVU 2020)
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                         Page 11 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                                     Course Title
+    116U04C301
+                                 Discrete and Applied Mathematics
+Teaching Scheme(Hrs.)
+    Credits Assigned             TH                 P                      TUT*  Total
+                                                                                   4
+ Examination Scheme              3                  -                      1       4
+
+ * Batch wise Tutorial           3                  -                      1     Total
+                                                                                  125
+                                                    Marks
+
+                             CA      ESE TW O                              P&O
+                                                                             --
+                        ISE      IA
+
+                        30       20  50 25                 --
+
+Course prerequisites: Applied Mathematics-I, Applied Mathematics –II
+
+Course Objectives:
+The objective of this course is to introduce different methods of finding Laplace Transform
+and Inverse Laplace transform of given function. The course also familiarizes students with
+the concepts of Relations, functions and different discrete structures. It will familiarize the
+students with different concepts of graph.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+   CO1. Apply Different methods to find Laplace Transform and Inverse Laplace Transform of
+          a function
+
+   CO2. Find Fourier series, Fourier Integral and Fourier Transform of functions.
+   CO3. Apply Relations, Functions and different discrete structures to solve Engineering
+
+           problems.
+   CO4. Apply various concepts of Graph theory to solve Engineering problems.
+
+SVU2020- R1.0           SY B.Tech IT AC 28/06/2021                               Page 12 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit                   Details                                             Hrs. CO
+  No. No.
+
+1 Laplace Transform                                                               12 CO1
+
+   1.1 Definition of Laplace Transform, Laplace Transform of
+          sin(at), cos(at),sinh(at), cosh(at), erf(t), Heavi-side unit step,
+          dirac-delta function, Laplace Transform of periodic
+          function
+
+   1.2 Properties of Laplace Transform (without proof): Linearity,
+          first shifting theorem, second shifting theorem,
+          multiplication by t , division by t, Laplace Transform of
+          derivatives and integrals, change of scale.
+
+          1.3 Inverse Laplace Transform: Partial fraction method,                 12 CO2
+                  convolution theorem, Application of Laplace Transform:
+                  Solution of ordinary differential equations
+
+2 Fourier Series
+
+   2.1 Introduction: Definition, Dirichlet’s conditions, Euler’s
+           formulae
+
+   2.2 Fourier Series of Functions: Exponential, trigonometric
+           functions, even and odd functions, half range sine and cosine
+           series .
+
+   2.3 Complex form of Fourier series.
+
+3  Relations and Functions                                                        9 CO3
+
+   3.1 Pigeon hole principle
+
+   3.2 Relations: Definition, Types of relations, Equivalence
+
+               relations, Partial ordering relations
+
+   3.3 Functions: Definition, Types of functions: Injective,
+
+               Surjective, Bijective, Invertible function, Composite function .
+
+4  Algebraic Structure                                                            6 CO3
+
+   4.1 Operations, Semi-groups, Groups, Rings, Integral Domains
+           and Fields .
+
+   4.2 Isomorphism and Homomorphism of groups .
+
+5  Graph Theory                                                                   8 CO4
+
+   5.1 Introduction to graphs, graph terminology, representing graphs
+           and graph isomorphism, connectivity.
+
+   5.2 Euler and Hamilton paths .
+
+   5.3 Introduction to Planar graphs .
+
+   5.4 Introduction to trees, Isomorphism of trees, Prefix code ,
+           application of trees to coding and decoding of a message
+
+                                                                           Total  45
+
+SVU2020- R1.0    SY B.Tech IT AC 28/06/2021                                         Page 13 of 63
+                              Somaiya Vidyavihar University
+                    K. J. Somaiya College of Engineering, Mumbai -77
+
+                      (A Constituent College of Somaiya Vidyavihar University)
+
+Recommended Books:
+
+Sr. Name/s of Author/s  Title of Book                  Name of                  Edition and
+No.                                                Publisher with                 Year of
+
+                                                       country                  Publication
+
+1. B. S. Grewal         Higher Engineering         Khanna                       43rd Edition
+                        Mathematics                Publications,                2014
+                                                   India
+
+2. Erwin Kreyszig       Advanced Engineering       Wiley Eastern                10th Edition
+                        Mathematics                Limited, India               2015
+
+3. N.P. Bali and Manish A Textbook of Engineering Laxmi                         9th Edition
+                                                                                2016
+Goyal                   Mathematics                Publications
+
+                                                   LTD, India
+
+4. P. N. Wartikar and   A text book of Applied Pune                             6th Edition
+       J. N. Wartikar
+                        Mathematics Vol I & II     VidyarthiGruha               2012
+
+                                                   , India
+
+Term-Work will consist of Tutorials covering entire syllabus of “Discrete and Applied
+Mathematics” (116U04C301). Students will be graded based on continuous assessment of
+their term work. At least 2 tutorials will be conducted with the help of Mathematical and
+Statistical software in the Laboratory.
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                     Page 14 of 63
+                              Somaiya Vidyavihar University
+                    K. J. Somaiya College of Engineering, Mumbai -77
+
+                      (A Constituent College of Somaiya Vidyavihar University)
+
+Course Code                                                 Course Title
+                                                          Data Structures$
+116U04C302
+                                                                           P
+                                                   TH                      -     TUT   Total
+                                                                           -       -     3
+Teaching Scheme(Hrs.)                              3                               -     3
+                                                                  Marks
+Credits Assigned                                   3                            P&O    Total
+                                                                                   --   100
+Examination Scheme                             CA         ESE TW O
+
+                       ISE                            IA
+
+                                           30         20  50  --
+
+$ Course Common with Computer Engineering
+
+Course prerequisites: Programming Language
+
+Course Objectives:
+The objective of this course is to introduce different types of data structure and how user can use
+data structure in software development. The course also familiarizes students with the concepts
+of advanced data structures such as balanced search trees, hash tables, priority queues, sorting
+and searching. Students will be master in the implementation of linked data structures such as
+linked lists and binary trees using any preferable language. Course mainly focuses on choosing
+the appropriate data structure for a specified application.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+     CO1. Explain the different data structures used in problem solving.
+     CO2. Apply linear and non-linear data structure in application development..
+     CO3: Describe concepts of advance data structures like set, map & dictionary.
+     CO4. Demonstrate sorting and searching methods.
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                      Page 15 of 63
+                                 Somaiya Vidyavihar University
+                       K. J. Somaiya College of Engineering, Mumbai -77
+
+                         (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit                         Details                                        Hrs. CO
+  No. No.
+
+1  Introduction to Data Structures                                                 04 CO1
+
+   1.1 Defining Data structure, Types of Data Structures, Abstract Data
+          Type (ADT), Static and Dynamic Implementations
+
+   1.2 Applications of data structures.
+
+2  Linear data structures : Linked List, Stack and Queue                           16 CO2
+
+   2.1 Introduction and Representation of Linked List, Linked List v/s
+          Array, Implementation of Linked List, Circular Linked List,
+          Doubly Linked List, Application – Polynomial Representation
+
+               and Addition, Other additional applications/Case study.
+
+               #Self-learning - Sparse matrix addition
+
+   2.2 The Stack as an ADT, Stack operations, Array
+          Representation of Stack, Linked Representation of Stack,
+          Application of stack – Polish Notation, Recursion and other
+          applications/Case study.
+
+          #Self-learning - Application of stack in evaluation of postfix
+          and prefix expression.
+   2.3 The Queue as an ADT, Queue operation, Array
+          Representation of Queue, Linked Representation of Queue,
+          Circular Queue, Priority Queue, and Double ended queue,
+          Application of Queues – Simulation and other applications/Case
+
+               study.
+
+               #Self-learning - Application of queue in Josephus’s Problem.
+
+3  Non-linear data structures: Tree and Graph                                      10 CO2
+
+   3.1 Basic tree terminologies, Types of trees, Binary tree
+          representation, Binary tree operation, Binary tree traversal,
+          Binary search tree implementation, Threaded binary trees.
+          Different Search Trees -AVL tree, Multiway Search Tree, B
+          Tree, B+ Tree, and Trie, Applications/Case study of trees.
+          #Self-learning Learning – Red-Black and Splay Trees.
+
+   3.2 Introduction to graph as a data structure, Terminologies,
+          Representation, Traversals – Depth First Search (DFS) and
+          Breadth First Search (BFS). Applications/Case study of Graphs.
+
+4  Set, Map and Dictionary                                                         7 CO3
+
+   4.1 Set ADT, Set Implementation, and Partitions with Union-Find
+          operations, Tree based partition implementation.
+
+   4.2 Map ADT, Implementation, Hash Tables Application of Maps
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                  Page 16 of 63
+                               Somaiya Vidyavihar University
+                     K. J. Somaiya College of Engineering, Mumbai -77
+
+                       (A Constituent College of Somaiya Vidyavihar University)
+
+   4.3 Dictionary ADT, Implementation, Application of Dictionaries
+
+   #Self-earning - Exploring case studies on use of set, map and
+
+   dictionary
+
+5  Searching and Sorting                                                                  8 CO 4
+
+   5.1 Sort Concept, Sort Stability , Bubble Sort, Insertion Sort,
+          Counting Sort
+          #Self-learning - Bucket and Radix sort
+
+   5.2 Search concept, Linear Search, Binary Search, Hashed List
+          Search, Comparison of searching Techniques
+                                                                                   Total 45
+
+# Self-learning topics may be evaluated through IA and/or Lab.
+
+Recommended Books:
+
+Sr. Name/s of Author/s    Title of Book             Name of Publisher            Edition and
+No.                                                    with country                Year of
+
+                                                                                 Publication
+
+1. Ellis Horowitz, Sartaj Fundamentals Of           University Press Second Edition
+
+   Sahni, Susan         Data Structures In C                                     2008
+
+   Anderson-Freed
+
+2. Michael T Goodrich Data Structure and Wiley                                   Second Edition
+
+   Roberto Tamassia     Algorithm in C++                                         2011
+
+   David Mount
+
+3. Richard F. Gilberg & Data Structures A           CENGAGE                      Second Edition
+
+   Behrouz A. Forouzan Pseudocode Approach Learning                              2005
+
+                        with C
+
+4. Aaron M Tanenbaum Data structure Using Pearson                                Twelfth
+
+   Yedidyah Langsam C                                                            Impression 2013
+
+   Moshe J Augentstein
+
+5. Jean Paul Tremblay, An introduction to           Tata McGraw- Second Edition
+                                                    Hill Education 1984
+   Paul G. Sorenson     data structures with
+
+                        applications
+
+SVU2020- R1.0           SY B.Tech IT AC 28/06/2021                                        Page 17 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                                    Course Title
+    116U04C303
+                                Database Management Systems
+Teaching Scheme(Hrs.)
+    Credits Assigned            TH                     P                   TUT  Total
+                                                                                  3
+ Examination Scheme             3                      -                   -      3
+
+                                3                      -                   -    Total
+                                                                                 100
+                                                   Marks
+
+                            CA      ESE TW O P&O
+
+                       ISE      IA
+
+                       30       20 50              --     --               --
+
+Course prerequisites: Nil
+
+Course Objectives:
+This course is imparting knowledge of database management system and its use in enterprise
+business. It enables students to perform entity-relationship modeling and relational database
+design Student will learn and use Structured Query Language (SQL). It gives knowledge of
+applying normalization techniques to the database. Along with it, students are also introduced to
+the concept of transactions and query processing.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+  CO1. Realize the features of Relational database management systems.
+  CO2. Apply data models to real world scenario.
+  CO3. Illustrate the concept of security, Query processing, indexing and Normalization for
+
+         Relational database.
+  CO4. Apply the concept of transaction, concurrency control and recovery techniques
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                               Page 18 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit                           Details                              Hrs. CO
+  No. No.
+
+1 Database concepts and Systems                                            6 CO1
+
+   1.1 Introduction, Purpose of Database Systems, DBMS system
+           architecture , Data Models, Data independence
+
+   1.2 Database languages, Database Users and Administrator
+
+   1.3 Different types of Database Systems
+
+2 ● Database Models and SQL                                                9  CO2
+
+   2.1 Database design phases, E-R Model
+
+   2.2 Constraints, E-R Diagrams, E-R design issues
+
+   2.3 Entity set, Extended E-R features
+
+   2.4 Relational model concepts, Constraints
+
+   2.5 Relational Algebra, Unary, Binary and Set theory
+
+               relational operations
+
+   2.6 Data definition commands, attribute constraints, SET
+
+               operations, Aggregate functions, Null Values, Nested sub
+
+               queries, complex queries, Views Data control commands
+
+   2.7 Data manipulation commands, Insert, Update, Joined
+
+               relations
+
+   2.8 Integrity and security, Domain constraints, Referential
+
+               integrity, Triggers; Security and Authorization in SQL
+
+3 Relational Database Design                                               10 CO3
+
+   3.1 Design guidelines for relational schemas, Functional
+           dependencies
+
+   3.2 First Normal form, Second Normal form, Third normal
+           form.
+
+   3.3 Decomposition using functional dependencies, Boyce
+           Codd normal form; decomposition using multivalued
+           dependencies, fourth normal form.
+
+   3.4 ● The database design and implementation process
+
+4  ● Indexing, Hashing , Query processing and Optimization                 10 CO3
+
+   4.1 Basic concepts, ordered indices: dense and sparse,
+           multilevel indices, secondary indices
+
+   4.2 Hashing: Static hashing, dynamic hashing, comparison of
+           ordered indexing and hashing
+
+   4.3 Query processing: Steps involved in query processing,
+           measures of query cost, algorithms for SELECT and
+           PROJECT operations.
+
+SVU2020- R1.0             SY B.Tech IT AC 28/06/2021                          Page 19 of 63
+                              Somaiya Vidyavihar University
+                    K. J. Somaiya College of Engineering, Mumbai -77
+
+                      (A Constituent College of Somaiya Vidyavihar University)
+
+4.4 Query Optimization: Overview, Transformation of
+
+               relational expressions, Estimating statistics, Choice of
+
+               evaluation plan
+
+5 ● Transactions, Concurrency control and Recovery system                       10 CO4
+
+5.1 Transaction Concepts, Transaction state, ACID properties,
+        concurrent executions, Serializability, Recoverability.
+
+5.2 Concurrency control, Lock based , Timestamp based,
+        validation based protocol, Deadlock Handling
+
+5.3 Recovery System, Failure classification, Recovery and
+        Atomicity, Log based recovery, Shadow paging
+
+                                                                                Total 45
+
+Recommended Books:
+
+Sr. Name/s of Author/s          Title of Book         Name of                   Edition and
+No.                                               Publisher with                  Year of
+
+                                                      country                   Publication
+
+1. Elmasri and Navathe Fundamentals of Database Pearson                         7th Edition
+                                                                                2015
+                        Systems                   Education
+
+2. Korth,               Database System Concepts McGraw – Hill 6th Edition
+
+Slberchatz,Sudarshan                                                            2010
+
+3. Raghu Ramakrishnan Database Management         McGraw Hill                   3rd Edition
+       and Johannes Gehrke Systems                                              2002
+
+4. Paulraj Ponniah,     Data Warehousing          Wiley India                   2nd Edition
+                        Fundamentals: A                                         2009
+                        Comprehensive Guide for
+                        IT Professionals
+
+5. McCreary, D., and    Making sense of No SQL    Manning Press 2014
+       Kelly
+
+● Instructor needs to provide additional resources to students for in-depth understanding and
+practical applicability of the indicated topic/topics.
+
+SVU2020- R1.0         SY B.Tech IT AC 28/06/2021                                          Page 20 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                 TH   Course Title                           TUT            Total
+    116U04C304                   3  Digital Systems                           -              3
+                                 3                                            -              3
+Teaching Scheme(Hrs.)                             P
+    Credits Assigned                              -                        P&O             Total
+                                                  -                           --            100
+ Examination Scheme
+                                           Marks
+
+                            CA      ESE TW O
+
+                       ISE      IA
+
+                       30       20  50             --
+
+Course prerequisites: Nil
+
+Course Objectives:
+This course lays the foundation for understanding the basics of digital
+Logic Design as well as Computer Organization and Architecture.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+     CO 1. Solve problems on various number systems, Boolean algebra and
+             graphical techniques.
+
+     CO 2. Understand the basic building blocks, techniques used in digital logic design.
+     CO 3. Design the combinational and sequential circuits using basic building blocks.
+     CO 4. Understand the basic concepts of memory elements.
+     CO 5. Understand the fundamental concepts of microprocessors.
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                 Page 21 of 63
+                           Somaiya Vidyavihar University
+                 K. J. Somaiya College of Engineering, Mumbai -77
+
+                   (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit No.               Details                                        Hrs.  CO
+                                                                                   CO1
+No.
+                                                                                   CO2
+1 Number Systems, Codes, Logic gates and Simplification                      13    CO3
+        Techniques                                                                 CO4
+
+     1.1 Introduction to digital Systems, Number systems-
+               Binary, octal, and hexa-decimal number systems, Codes-
+               Binary code, BCD code, excess-3 code, gray code,
+               ASCII code
+
+     1.2 Binary Arithmetic, Binary Addition and Subtraction (1’s
+               and 2’s complement method)
+
+     1.3 Basic Digital Circuits: NOT, AND, OR, NAND, NOR,
+               EXOR, EX-NOR
+
+     1.4 Theorems and Properties of Boolean Algebra, Standard
+               SOP and POS form. Simplification of expressions, K-
+               map method (2,3,4), NAND-NOR Realization.
+
+2 Combinational Logic Design                                                 09
+
+     2.1 Introduction to combinational logic design, Half and Full
+               Adder, Half and Full Subtractor, Ripple carry Adder,
+               Magnitude comparator
+
+     2.2 Multiplexers and De-multiplexers/Decoder, Binary
+               Encoder, Priority Encoder, Code Conversion.
+
+     2.3 Design of combinational logic systems using Logic gates
+               , Multiplexer, Demultiplexer, Encoder and Decoder
+
+3 Sequential Logic Design                                                    10
+
+     3.1 Flip Flops: SR, D, JK, JK Master Slave and T Flip Flop,
+               Truth Tables and Excitation Tables, Flip-flop conversion
+
+     3.2 Counters: Design of Asynchronous and Synchronous
+               Counters, Modulo Counters, Up- Down counter.
+
+     3.3 Shift Registers: Bidirectional Shift Register, Ring and
+               Johnson Counter.
+
+4 Functional Units of Digital Systems                                        07
+
+     4.1 Von Neumann architecture, Functional units of
+               Computer, Basic Instruction Cycle, Interrupts
+
+     4.2 Memory sub-system-Typical architecture of RAM and
+               ROM, SRAM and DRAM – architecture and
+               comparison, Memory hierarchy
+
+SVU2020- R1.0    SY B.Tech IT AC 28/06/2021                                      Page 22 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+5 Introduction to Microprocessors                                          06 CO5
+
+5.1 Introduction to Functional Block diagram of
+          microprocessor 8086
+
+5.2 MOV Instruction Formats, Addressing modes of
+          microprocessor 8086
+
+5.3 Segmented memory and interleaved memory architecture
+          in 8086
+
+                                                                           Total 45
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                            Page 23 of 63
+                                  Somaiya Vidyavihar University
+                        K. J. Somaiya College of Engineering, Mumbai -77
+
+                          (A Constituent College of Somaiya Vidyavihar University)
+
+  Recommended Books:    Title of Book                    Name of                    Edition and
+                                                     Publisher with                    Year of
+Sr. Name/s of Author/s
+No.                                                      country                    Publication
+
+1 R. P. Jain            Modern Digital Electronics  Tata McGraw                     4th Edition,
+                                                    Hill                            2009
+2 Donald P Leach,       Digital principles and      Tata McGraw                     8 th Edition,
+                                                    Hill                            2014
+Albert Paul Malvino Applications
+
+3 William Stallings     Computer Organization and Pearson                           10th Edition,
+
+                        Architecture                Education India 2016
+
+4 D. V. Hall,           Microprocessor and          Tata McGraw                     2nd Edition,
+5 Shibu K. V.           Interfacing Programming     Hill                            2006
+                        Hardware
+                        Introduction to embedded    McGraw Hill                     2nd edition,
+                        Systems                     Education India                 July 2017
+                                                    Private Limited
+
+SVU2020- R1.0           SY B.Tech IT AC 28/06/2021                                  Page 24 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                                    Course Title
+    116U04C305
+                           Data Communication and Networking
+Teaching Scheme(Hrs.)
+    Credits Assigned           TH                  P                       TUT Total
+
+ Examination Scheme            3                   -                       -               3
+
+                               3                   -                       -               3
+
+                                                   Marks
+
+                           CA      ESE TW                 O P&O                            Total
+                                    50                                                      100
+                       ISE IA
+
+                       30      20                         --               --
+
+Course prerequisites: Fundamentals of Computer Programming
+
+Course Objectives:
+This course provides an understanding of the concepts and mechanisms underlying the
+telecommunications and networking. Starting with the basics of data communication and types
+of networks, it introduces the transmission media. It also explains how two public networks,
+telephones and cable TV can be used for data transfer. A thorough background of the ISO- OSI
+model and the TCP/IP model will be given. The Application layer, Transport layer, Internet
+layer, Data link layer and Physical layers are covered in detail along with the protocols used.
+Top-down approach is used for this course will give students a better perception in terms of both
+usefulness and ease of understanding.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+   CO1 . Understand the data communication systems, network topologies and network
+           devices
+
+   CO2. Enumerate the layers of the OSI model and TCP/IP model, their functions and
+           Protocols.
+
+   CO3. Build the skills of sub-netting and routing mechanisms.
+   CO4. Execute their knowledge of computer communication principles, including
+
+           Error detection and correction, multiplexing, flow control, and error control.
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                              Page 25 of 63
+                          Somaiya Vidyavihar University
+                K. J. Somaiya College of Engineering, Mumbai -77
+
+                  (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit                     Details                                     Hrs CO
+                                                                              .
+No.  No.
+
+1 Introduction                                                              05 CO1
+
+     1.1       Data Communications, Networks, The Internet , Protocols
+
+               and Standards, Uses of Computer networks
+
+     1.2       Network Models: Layered tasks ,The OSI Model, Layers
+
+               in the OSI Model, TCP/IP Protocol Suite
+
+2 The Application Layer                                                     09 CO2
+
+     2.1       Providing services, Application layer paradigms: Client
+
+               Server and Peer to Peer paradigm.
+
+               Client Server paradigm: Application programming
+
+               Interface, Using services of the Transport layer.
+
+               Peer to Peer Paradigm: P2P networks, Protocols, A
+
+               popular P2P Network (BitTorrent).
+
+     2.2       Standard client server applications: Domain Name
+
+               System
+
+               (DNS), Hyper Text Transfer Protocol (HTTP), Remote
+
+               Logging(Telnet),Email(SMTP,MIME,POP3),File
+
+               Transfer(FTP) and SNMP
+
+3 The Transport Layer                                                       07 CO2
+
+     3.1       The Transport Layer Services, Protocols: UDP, TCP
+
+     3.2       User datagram protocols: User datagram, services and
+
+               UDP application
+
+     3.3       TCP features and services, Flow control, Error Control,
+
+               Congestion Control, TCP segment, TCP Connection
+
+               Establishment, Data transfer , TCP Connection Release
+
+4    ●The Network Layer                                                     08 CO 3
+
+     4.1       Network Layer Design Issues, IP Addressing, Sub-
+
+               netting
+
+     4.2       The Network Layer In The Internet: The IP Protocol, IPv4
+
+               header, IPv6 header, Routing Algorithms, Congestion
+
+               Control Algorithms, Quality Of Service
+
+               # Self learning: Internet Control protocols, Routing
+               protocols ( Intra-domain-RIP,OSPF and Inter-domain-
+               BGP)
+
+5 The Data Dink Layer & Physical layer (Host layer)                         16 CO4
+
+     5.1       Error detection and correction: Types of errors,
+
+               redundancy, detection versus correction, forward error
+
+               correction versus retransmission, Error detection, Error
+
+SVU2020- R1.0           SY B.Tech IT AC 28/06/2021                          Page 26 of 63
+                               Somaiya Vidyavihar University
+                    K. J. Somaiya College of Engineering, Mumbai -77
+
+                        (A Constituent College of Somaiya Vidyavihar University)
+
+               correction, Hamming Code ,CRC, Checksum
+
+               Data Link Control: Framing, Fixed size and variable size
+
+               framing; Flow and Error control, Protocols for Noiseless
+
+    5.2        and Noisy Channels, Piggybacking, HDLC, PPP. Multiple
+
+               Access: Random Access, Controlled Access,
+
+               Channelization.
+
+    5.3 Data and Signals: Analog and Digital Signals,
+               Transmission impairments, Data Rate Limits,
+               Performance. Digital transmission: Digital –to-Digital
+               Conversion, Analog –to-Digital Conversion.Analog
+               transmission: Digital –to-Analog Conversion, Analog –to-
+               Analog Conversion.
+
+    5.4        Transmission Media: Guided Media, Unguided Media,
+
+               Switching and Multiplexing.
+
+                                                                                  Total 45
+
+# Self-learning topics may be evaluated through IA and/or Lab.
+
+Recommended Books:
+
+Sr. Name/s of Author/s          Title of Book            Name of                  Edition and
+No.                                                  Publisher with                 Year of
+
+                                                         country                  Publication
+
+1. B. A. Forouzan and Computer Networks A Top Tata McGraw 1st Edition,
+
+    Firouz Mosharraf down Approach                   Hill,India                   2011
+
+2.  James F. Kurose Computer Networking: A top Pearson, India 5th Edition,
+
+    and                 down approach                                             2012
+
+    Keith W. Ross
+
+3. A. S. Tanenbaum Computer Networks                 Prentice Hall, 5th Edition,
+
+                                                     India                        2014
+
+4. B. F. Ferouzan       TCP/IP Protocol Suite        Tata McGraw 4th
+
+                                                     Hill,India                   Edition,2010
+
+5. Williams Stallings Data & Computer                Pearson                      9th Edition,
+                                     Communications                               2017
+
+● Instructor needs to provide additional resources to students for in-depth understanding and
+practical applicability of the indicated topic/topics.
+
+SVU2020- R1.0           SY B.Tech IT AC 28/06/2021                                Page 27 of 63
+                             Somaiya Vidyavihar University
+                   K. J. Somaiya College of Engineering, Mumbai -77
+
+                     (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                               Course Title
+    116U04L301                      Programming Laboratory-I@
+
+Teaching Scheme(Hrs.)           TH                     P                       TUT  Total
+    Credits Assigned                                                                  3
+                                --                     2                       1      2
+ Examination Scheme
+                                --                     1                       1    Total
+
+                                                   Marks
+
+                            CA          ESE TW            O P&O
+
+                       ISE      IA
+
+                       --           --  --         50     --                   25   75
+
+@Java Programming
+
+Course prerequisites: Knowledge of Object Oriented Programming language(116U06L108)
+
+Course Objectives:
+The objective of the course is to impart knowledge of Java Programming language. The course
+introduces the implementation of Object Oriented Methodology concepts to solve problem using
+Java Programming. Further the course also covers concepts of Packages, Multithreading,
+Collection classes, GUI programming with JDBC and Functional Programming in java
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+   CO1. Apply fundamental Object Oriented Methodology concepts using java programming.
+   CO2. Apply String manipulation functions ,inheritance and polymorphism using Java
+
+          programming.
+   CO3. Demonstrate the concept of packages, multithreading and exception handling in java.
+   CO4. Illustrate the use of collection classes ,functional programming and GUI
+
+          programming with java.
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                   Page 28 of 63
+                           Somaiya Vidyavihar University
+                 K. J. Somaiya College of Engineering, Mumbai -77
+
+                   (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit No.                           Details                            Hrs.  CO
+                                                                                   CO1
+No.                                                                                CO2
+                                                                                   CO3
+0 Introduction to Test Case Driven Development                               01
+                                                                                   CO4
+     0.1 Testing a code, Manual and Automated Testing, Basic                       CO4
+
+                 structure of Test Case, Writing Test Cases
+
+1 Classes, Objects and Arrays                                                03
+
+     1.1 Features of Java programming Language, JDK and
+
+                 JVM , Classes Object , Method, Member, Dot
+
+                 Operator, Command Line Argument, Input using
+
+                 Scanner Class
+
+     1.2 Constructor, Constructor Overloading, Garbage
+
+                 Collection
+
+     1.3 1D Array, 2D Array, Jagged Array, Array of Objects
+
+2 String Handling and Inheritance                                            03
+
+     2.1 String Class and Methods, String Buffer Class and
+              Methods
+
+     2.2 Types of Inheritance, Polymorphism – method
+              overloading, method overriding
+
+     2.3 Final class and method, Abstract class, Interface
+
+3 Exception Handling, Packages and Multithreading in Java                    03
+
+     3.1 Types of Exception, try-catch-finally, throw, throws
+              Input using BufferedReader Class
+
+     3.2 User Defined Exception
+
+     3.3 Creating and Using User Defined Package
+     3.4 Introduction to Multithreading, Thread Life Cycle,
+
+              Creating Threads using Runnable Interface and Thread
+              Class
+
+4 Collection Classes and Functional Programming                              03
+
+     4.1 Collection classes- ArrayList, HaspMap, HashTable
+
+     4.2 Introduction to functional programming, lambda
+
+                 expressions, method references, predefined functional
+
+                 interfaces, Streams API
+
+5 GUI Programming with Java                                                  02
+
+     5.1 Introduction to GUI Programming
+
+     5.2 Introduction to JDBC,CRUD operation in JDBC
+
+                 #Self Learning : Classes of swing package
+
+                                                             Total 15
+
+SVU2020- R1.0    SY B.Tech IT AC 28/06/2021                                        Page 29 of 63
+                                             Somaiya Vidyavihar University
+                                  K. J. Somaiya College of Engineering, Mumbai -77
+
+                                             (A Constituent College of Somaiya Vidyavihar University)
+
+Module 0 is to introduce the concepts of software testing in the syllabus. It will have no
+weightage in End-semester examination. It may be evaluated through IA and/or Lab.
+# Self-learning topics may be evaluated through IA and/or Lab.
+
+Recommended Books:
+
+Sr. Name/s of Author/s        Title of Book         Name of Edition and
+No.
+                                                    Publisher with Year of
+
+                                                    country     Publication
+
+1. Herbert Schildt      Java: The Complete          Tata McGraw- Tenth
+
+                        Reference                   Hill Publishing Edition,
+
+                                                    Company     2017
+
+                                                    Limited
+
+2. Sachin Malhotra,     Programming in Java         Oxford      Second
+
+Saurab                                              University  Edition,
+
+Choudhary                                           Press       2018
+
+3. D.T.        Editorial Java 8 Programming Black Dream tech Edition 2015
+
+Services                Book                        Press
+
+ Term-Work will consist of Tutorials and laboratory work covering entire syllabus of
+
+   Programming Laboratory-I” (116U04L301) with Java Programming. Students will
+
+    be graded based on continuous assessment of their term work.
+ Practical and Oral examination will be based on tutorial work, laboratory work and
+
+   entire syllabus of Programming Laboratory-I” (116U04L301) with Java
+
+    Programming.
+
+SVU2020- R1.0           SY B.Tech IT AC 28/06/2021                    Page 30 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+          Course Code                          Course Title
+          116U04L301                 Programming Laboratory-I@
+
+      Teaching Scheme(Hrs.)      TH                      P                 TUT  Total
+           Credits Assigned                                                       3
+                                 --                      02                01     2
+        Examination Scheme
+                                 --                      01                01   Total
+@Python Plus                                                                     75
+                                                         Marks
+
+                                  CA
+                                                ESE TW O P&O
+
+                             ISE IA
+
+                             --  --  -- 50                      --         25
+
+Course prerequisites: Basics of Python Programming
+
+Course Objectives:
+The objective of this laboratory course is to impart knowledge of testing python applications,
+multithreading, scientific and mathematical computing, database handling, GUI design and
+networking based applications using various python libraries.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+         CO1. Understanding the usage of multithreading.
+         CO2. Inculcate the knowledge of python libraries like numpy, pandas, matplotlib for
+
+                 scientific- computing and data visualization.
+         CO3. Designing a graphical interface for python applications
+         CO4. Demonstrate handling database with python and to understand network
+
+                programming with Python scapy.
+
+SVU2020- R1.0                SY B.Tech IT AC 28/06/2021                         Page 31 of 63
+                           Somaiya Vidyavihar University
+                 K. J. Somaiya College of Engineering, Mumbai -77
+
+                   (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit                            Details                                  Hrs. CO
+
+No.  No.
+
+0    Introduction to Unit Testing                                               01
+
+     0.1 Testing a python code, Automated vs Manual Testing, Unit
+               Testing vs Integration Testing, Test case writing, Basic Test
+               structure, Test Runners, Writing Assertions
+
+1    Multithreading in Python                                                   02 CO1
+
+     1.1 Multithreading in Python, Process vs Thread, Lifecycle of a
+               Thread, Thread Class, Methods of thread object
+
+               # Self Learning: Thread Synchronization, Locking
+               Mechanism, Semaphore
+
+2    Introduction to Numpy for data computing                                   02 CO2
+
+     2.1 Introduction to modules, Packages and Exploratory Data
+
+               Analysis, Reading different data formats in Python
+
+     2.2 Numpy in Python for data computing, array creation,
+
+               array attributes, array manipulation methods, Shaping and
+
+               transposition, mathematical operations, indexing and
+
+               slicing, broadcasting
+
+               # Self Learning: Data reading and cleansing using
+
+               numpy
+
+3    Scientific computing using Pandas and visualization using                  04 CO2
+
+     Matplotlib
+
+     3.1 Pandas for data computing, series and data frames, Data
+
+               reading using Pandas
+
+     3.2 Analyzing dataset with Pandas, statistical functions
+
+     3.3 Use of Matplotlib for data Visualization, Bar graphs, Pie
+
+               charts, area plots, pivot table, scatter plots, histograms, sub
+
+               plot function, boxplot
+
+4    GUI design using Tkinter                                                   02 CO3
+
+     4.1 Introduction to Tkinter, Labels, widget, Buttons, check
+               box, sliders, Layout management, Event Creation
+               # Self Learning: Python Date and Time
+
+5    Database connectivity and Networking in Python                             04 CO4
+
+     5.1 SQL Relational Databases Connection: Exception handling,
+               Cursor, Row Objects, CRUD operations accomplishment
+               using python, Transactions and Rollbacks
+
+     5.2 Introduction to Socket Programming, Scapy for Network
+               Analysis
+               # Self Learning: Python network scanner, Telnet
+               connection using python
+
+SVU2020- R1.0         SY B.Tech IT AC 28/06/2021                                Page 32 of 63
+                                             Somaiya Vidyavihar University
+                                  K. J. Somaiya College of Engineering, Mumbai -77
+
+                                             (A Constituent College of Somaiya Vidyavihar University)
+
+                                                                                           Total 15
+
+Module 0 is to introduce the concepts of software testing in the syllabus. It will have no
+weightage in End-semester examination. It may be evaluated through IA and/or Lab.
+# Self-learning topics may be evaluated through IA and/or Lab.
+
+Recommended Books:
+
+Sr. Name/s of Author/s  Title of Book                   Name of     Edition and
+No.                                                 Publisher with    Year of
+
+                                                        country     Publication
+
+1. Daniel Arbuckle      Learning Python Testing     Packt           1st Edition,
+                                                    Publishing      2014
+
+2. Wesly J Chun         Core Python Applications Pearson            3rd Edition,
+                                                                    2015
+                        Programming                 Publications
+
+3. Wes McKinney         Python for Data Analysis    O’Reilly        1st edition,
+                                                                    2017
+
+4. Albert Lukaszewsk MySQL for Python               Packt           1st Edition,
+                                                    Publishing      2010
+
+5. Eric Chou            Mastering      Python Packt                 2nd edition,
+                        Networking                Publishing        2017
+
+ Term-Work will consist of Tutorials and laboratory work covering entire syllabus of
+
+   Programming Laboratory-I” (116U04L301) with Python Programming. Students
+
+    will be graded based on continuous assessment of their term work.
+ Practical and Oral examination will be based on tutorial work, laboratory work and
+
+   entire syllabus of Programming Laboratory-I” (116U04L301) with Python
+
+    Programming.
+
+SVU2020- R1.0           SY B.Tech IT AC 28/06/2021                  Page 33 of 63
+                                 Somaiya Vidyavihar University
+                       K. J. Somaiya College of Engineering, Mumbai -77
+
+                         (A Constituent College of Somaiya Vidyavihar University)
+
+     Course Code                        Course Title
+     116U04L301
+                                    Programming Laboratory I@
+Teaching Scheme(Hrs.)
+    Credits Assigned            TH                        P                        TUT  Total
+                                                                                          3
+  Examination Scheme            0                         2                        1      2
+
+@ C++ Programming               0                         1                        1    Total
+                                                                                         75
+                                                   Marks
+
+                            CA          ESE TW O P&O
+
+                       ISE          IA
+
+                       -            -   -          50        --                    25
+
+Course prerequisites: Programming in C
+
+Course Objectives:
+The major objective of the course is to introduce fundamental concept of Object Oriented
+Programming (OOP) using C++. Students will be able to develop the skills with the
+comprehensive capabilities that are required for the efficient programming. Develop applications
+for a range of problems using object-oriented programming techniques.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+         CO1. Inculcate fundamental concepts of Object Oriented Programming.
+         CO2. Implement the principles of Data Abstraction Inheritance & Polymorphism.
+         CO3. Understand the concepts of streams and templates.
+         CO4. Implement exception handling and test driven development using C++.
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                       Page 34 of 63
+                             Somaiya Vidyavihar University
+                   K. J. Somaiya College of Engineering, Mumbai -77
+
+                     (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit                         Details                                    Hrs. CO
+
+No.  No.
+
+0 Introduction to Test Case Driven Development                                 01
+
+     0.1 Testing a code, Manual and Automated Testing, Basic
+              structure of Test Case, Writing Test Cases
+
+1    Introduction C++ fundamentals                                             02 CO1
+
+     1.1 C Vs. C++, C++ Basics: I/O in C++, Object-Oriented
+              Thinking: Different paradigms for problem solving, need
+              for OOP paradigm, differences between OOP and Procedure
+              oriented programming, Overview of OOP concepts
+              Abstraction, Encapsulation, Inheritance and Polymorphism.
+
+     1.2 Pointers, Dynamic memory allocation and de-allocation
+              using calloc, malloc and realloc and free, Pointers and
+              functions
+
+2    Classes, Data Abstraction & Operator Overloading                          03 CO2
+
+     2.1 Introduction, Class Scope and accessing Class Members,
+              Separating Interface from Implementation, Controlling
+              Access Function And Utility Functions
+
+     2.2 Initializing Class Objects: Constructors, Using Default
+              Arguments With Constructors, Using Destructors, Classes :
+              Const(Constant) Object And Const Member Functions,
+              Object as Member of Classes, Friend Function and Friend
+              Classes, Using This Pointer, Dynamic Memory Allocation
+              with New and Delete, Pointers to objects, Static Class
+              Members, Container Classes And Integrators, Proxy
+              Classes, Function overloading.
+
+     2.3 Fundamentals of Operator Overloading, Restrictions On
+              Operators Overloading, Operator Functions as Class
+              Members vs. as Friend Functions, Overloading, <<, >>
+              Overloading Unary Operators, Overloading Binary
+              Operators.
+
+3    Inheritance, Virtual Functions and Polymorphism                           03 CO2
+
+              3.1  Introduction to Inheritance, Base Classes And Derived       Page 35 of 63
+                   Classes, Protected Members, Casting Base- Class Pointers
+SVU2020- R1.0      to Derived- Class, Using Member Functions, Overriding
+                   Base – Class Members in a Derived Class, Public, Protected
+
+                                 SY B.Tech IT AC 28/06/2021
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+            and Private Inheritance, Using Constructors and Destructors
+            in derived Classes, Implicit Derived –Class Object To Base-
+            Class Object Conversion, Composition Vs. Inheritance.
+   3.2 Introduction to Virtual Functions, Abstract Base Classes
+            And Concrete Classes, Polymorphism, New Classes And
+            Dynamic Binding, Virtual Destructors, Pointers to virtual
+            functions
+
+4  I/O Streams, files and Templates                                        03 CO3
+
+   4.1 Concept of streams, cin and cout objects, C++ stream
+            classes, Unformatted and formatted I/O, manipulators, File
+            stream, C++ File stream classes, File management
+            functions,
+
+   4.2 Templates, Exceptions and STL : What is template?
+            function templates and class templates, Overview and use of
+            Standard Template Library,
+
+5  Exception Handling and Test Driven Development                          03 CO4
+
+   5.1 Introduction, Basics of C++ Exception Handling: Try
+            Throw, Catch, Throwing an Exception, Catching an
+            Exception, Rethrowing an Exception, Exception
+            specifications, Processing Unexpected Exceptions, Stack
+            Unwinding, Constructors, Destructors and Exception
+            Handling, Exceptions and Inheritance.
+
+   5.2 Test Driven Development using C++
+
+                                                                           Total 15
+
+Module 0 is to introduce the concepts of software testing in the syllabus. It will have no
+weightage in End-semester examination. It may be evaluated through IA and/or Lab.
+
+# Self-learning topics may be evaluated through IA and/or Lab.
+
+● Instructor needs to provide additional resources to students for in-depth understanding and
+practical applicability of the indicated topic/topics.
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                  Page 36 of 63
+                              Somaiya Vidyavihar University
+                    K. J. Somaiya College of Engineering, Mumbai -77
+
+                      (A Constituent College of Somaiya Vidyavihar University)
+
+Recommended Books:       Title of Book                 Name of                  Edition and
+                                                       Publisher                  Year of
+ Sr. Name/s of Author/s                              with country
+No.                                                                             Publication
+
+1. B. Stroutstrup        The C++ Programming         Pearson                    3rd Edition
+2. E Balagurusamy        Language                    Education                  1 January
+3. Robert Lafore                                     India                      2002
+4. Herbert Schildt       Object oriented             Tata McGraw-               8th Edition
+                         Programming with C++        Hill                       24 September
+                                                                                2020
+                         Object Oriented             Pearson                    4th edition
+                         Programming C++             Education                  1 January
+                                                     India                      2008
+                         C++: The Complete
+                         Reference                   McGraw Hill 4th edition
+
+                                                     Education                  1 July 2017
+
+5. Jeff Langr            Modern C++ Programming      O′Reilly                   1st edition
+                         with Test-Driven                                       5th
+                         Development : Code Better,                             November
+                         Sleep Better                                           2013
+
+ Term-Work will consist of Tutorials and laboratory work covering entire syllabus of
+
+   Programming Laboratory-I” (116U04 L301) with C++ Programming. Students will
+
+    be graded based on continuous assessment of their term work.
+ Practical and Oral examination will be based on tutorial work, laboratory work and
+
+   entire syllabus of Programming Laboratory-I” (116U04 L301) with C++
+
+    Programming
+
+SVU2020- R1.0            SY B.Tech IT AC 28/06/2021                             Page 37 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                            Course Title
+    116U04L302
+                                    Data Structures Laboratory
+Teaching Scheme(Hrs.)
+    Credits Assigned      TH               P                               TUT  Total
+
+ Examination Scheme           -            2                               -    2
+
+                              -            1                               -    1
+
+                                           Marks
+
+                          CA
+
+                       ISE IA       ESE TW O P&O                                Total
+                                      - 25 - 25                                  50
+                       -         -
+
+ Term-Work will consist of practical covering entire syllabus of “Data Structures”
+    (116U04C302). Students will be graded based on continuous assessment of their term
+    work.
+
+ Practical and Oral Examination will be based on laboratory work and entire theory
+    syllabus of “Data Structures” (116U04C302).
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                       Page 38 of 63
+                            Somaiya Vidyavihar University
+                  K. J. Somaiya College of Engineering, Mumbai -77
+
+                    (A Constituent College of Somaiya Vidyavihar University)
+
+Course Code                Course Title
+
+116U04L303             Database Management Systems Laboratory
+
+                       TH                          P  TUT                     Total
+
+Teaching Scheme(Hrs.)  -                           2         -                2
+
+Credits Assigned       -                           1         -                1
+
+                                                      Marks
+
+Examination Scheme        CA                                                  Total
+                                       ESE TW O P&O                            50
+
+                       ISE IA
+
+                        - - - 25 - 25
+
+ Term-Work will consist of practical covering entire syllabus of “Database
+    Management Systems” (116U04C303). Students will be graded based on continuous
+    assessment of their term work.
+
+ Practical and Oral Examination will be based on laboratory work and entire theory
+    syllabus of “Database Management Systems” (116U04C303).
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                Page 39 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                    Course Title
+    116U04L304            Digital Systems Laboratory
+
+Teaching Scheme(Hrs.)  TH                  P      TUT                         Total
+    Credits Assigned
+                       -                   2                               -  2
+ Examination Scheme
+                       -                   1                               -  1
+
+                                           Marks
+
+                          CA                                                  Total
+                                     ESE TW O P&O                              50
+
+                       ISE IA
+
+                        - - - 25 25 -
+
+ Term-Work will consist of practical covering entire syllabus of “Digital Systems”
+    (116U04C304). Students will be graded based on continuous assessment of their term
+    work.
+
+ Oral Examination will be based on laboratory work and entire theory syllabus of
+    “Digital Systems” (116U04C304).
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                     Page 40 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+Course Code                                   Course Title
+
+116U04L305             Data Communication and Networking Lab
+
+                          TH                  P                            TUT Total
+
+Teaching Scheme(Hrs.)     -                   2                            -  2
+
+Credits Assigned          -                   1                            -  1
+
+                                              Marks
+
+Examination Scheme         CA                                                 Total
+                                         ESE TW O P&O                          50
+
+                       ISE IA
+
+                       -  -   -               25 25                        -
+
+ Term-Work will consist of practical covering entire syllabus of “Data Communication
+    and Networking” (116U04C305) . Students will be graded based on continuous
+    assessment of their term work.
+
+ Oral Examination will be based on laboratory work and entire theory syllabus of
+    “Data Communication and Networking” (116U04C305) .
+
+SVU2020- R1.0     SY B.Tech IT AC 28/06/2021                                  Page 41 of 63
+         Semester IV
+
+SY B. Tech. Information Technology
+
+         (KJSCE SVU 2020)
+                                 Somaiya Vidyavihar University
+                       K. J. Somaiya College of Engineering, Mumbai -77
+
+                         (A Constituent College of Somaiya Vidyavihar University)
+
+Course Code                                     Course Title
+    116U04C401         Probability, Statistics and Optimization Techniques
+
+Teaching Scheme(Hrs.)  TH                  P       TUT                             Total
+    Credits Assigned
+                       3                   -       1                               4
+ Examination Scheme
+                       3                   -       1                               4
+
+                                                   Marks
+
+                           CA                                                      Total
+                                        ESE TW O P&O                                125
+
+                       ISE IA
+                       30 20 50 25 -- --
+
+$ Course Common with Computer Engineering
+
+Course prerequisites: Basics of Statistics and Probability, Introductory Linear programming
+                            problems
+
+Course Objectives:
+
+This course Exposes students to the concepts of Correlation, Regression for given bivariate data.
+Students are made familiar with different discrete and continuous probability distributions. The
+course acquaints students with concepts of Large sample test, Small sample test and Chi – Square
+test. The course familiarizes students with different methods of solving Linear and Non Linear
+Programming problems. Some basic queuing theory models are also discussed in the course.
+Using these methods it will be possible to analyze and interpret a given real life situation and think
+of possible solutions.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+   CO1. Apply concepts of Binomial, Poisson, Exponential and Normal distribution to solve
+           Engineering problems.
+
+   CO2. Apply concepts of correlation, regression for given bivariate data.
+   CO3. Apply Large sample test and small sample test to analyze collected data.
+   CO4. Apply concepts of Linear and Nonlinear programming methods to solve problems.
+   CO5. Apply the methods of single server limited queue and single server unlimited queue
+
+           models to analyze and interpret the data.
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                     Page 43 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit                                 Details                           Hrs.   CO
+                                                                                     CO1
+No. No.                                                                              CO2
+                                                                                     CO3
+1 Probability and Probability Distribution                                    12
+                                                                                     CO4
+1.1 Conditional Probability, Bayes’ theorem, Joint Probability
+
+1.2 Discrete and Continuous Probability Distribution
+
+1.3 Binomial Distribution, Poisson Distribution
+
+1.4 Uniform Distribution, Normal Distribution, Exponential
+       Distribution
+
+2 Correlation and Regression                                                  06
+
+2.1 Correlation, Co-variance, Karl Pearson Coefficient of Correlation
+       & Spearman’s Rank Correlation Coefficient.
+
+2.2 Regression Coefficients, lines of regression& logistic regression.
+
+3 Sampling Theory                                                             07
+
+3.1 Sampling distribution. Test of Hypothesis. Level of significance,
+       critical region. One tailed and two tailed tests. Interval Estimation
+       of population parameters. Large and small samples.
+
+3.2 Difference between sample mean and population means for large
+       samples, Test for significance of the difference between the
+
+               means of two large samples.
+
+3.3 Student’s t-distribution: Test for significance of the difference
+       between sample mean and population means, Test for significance
+       of the difference between the means of two Samples, paired t-test.
+
+3.4 Chi-square distribution as a Test of Independence, Test of the
+        Goodness of fit and Yate’s correction.
+
+3.5 Fisher’s z-test
+
+4 Optimization Techniques                                                     13
+
+4.1 Types of solution, Standard and Canonical form of LPP, Basic
+       and feasible solutions, simplex method.
+
+4.2 Artificial variables, Big –M method (method of penalty).
+
+4.3 Duality and Dual Simplex method
+
+4.4 Unconstrained optimization, problems of two or three variables
+       with one equality constraint using Lagrange’s Multiplier method.
+
+4.5 Problems of two or three variables with one inequality constraint
+       using Kuhn-Tucker conditions
+
+5 Queuing Theory                                                              07 CO5
+
+5.1 Introduction, Features of Queuing , solution of Queuing
+        Models.M/M/1(Single Server ,Unlimited Queue Model)
+
+5.2 M/M/1 Single Server ,limited Queue Model
+
+                                                                           Total 45
+
+SVU2020- R1.0      SY B.Tech IT AC 28/06/2021                                 Page 44 of 63
+                              Somaiya Vidyavihar University
+                    K. J. Somaiya College of Engineering, Mumbai -77
+
+                      (A Constituent College of Somaiya Vidyavihar University)
+
+Recommended Books:
+
+Sr. Name/s of Author/s  Title of Book               Name of Publisher Edition and Year
+No.
+                                                    with country                of Publication
+
+1 B. S. Grewal          Higher       Engineering Khanna                         43rd Edition
+
+                        Mathematics                 Publications, India 2014
+
+2 Erwin Kreyszig        Advanced Engineering Wiley         Eastern 10th Edition
+
+                        Mathematics                 Limited, India              2015
+
+3 J. K. Sharma          Operation research: Laxmi                               6th Edition 2017
+
+                        Theory and Applications Publications, India
+
+4  S.C.Gupta        and Fundamentals of             Sultan Chand & 11th Edition
+   V.K.Kapoor              Mathematical Statistics
+                                                    Sons                        2009
+
+5  Ronald E.Walipole, Probabilities & Statistics Pearson Education              9th Edition
+   Raymond H.Myers for Engineers & Scientists                                   2010
+
+   P. N. Wartikar and A text book of Applied Pune                               6th Edition
+
+6 J. N. Wartikar        Mathematics Vol I & II VidyarthiGruha,                  2012
+
+                                                    India
+
+Term-Work will consist of Tutorials covering entire syllabus of “Probability, Statistics and
+Optimization Techniques”( 116U04C401). Students will be graded based on continuous
+assessment of their term work. At least 2 tutorials will be conducted with the help of
+Mathematical and Statistical software in the Laboratory.
+
+SVU2020- R1.0           SY B.Tech IT AC 28/06/2021                                    Page 45 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                                    Course Title
+    116U04C402
+                                Information Theory and Coding
+Teaching Scheme(Hrs.)
+    Credits Assigned            TH                       P                 TUT  Total
+                                 3                       -                   1    4
+ Examination Scheme              3                       -                   1    4
+                                                   Marks
+                                                                                Total
+                            CA      ESE TW O P&O                                 125
+
+                       ISE      IA
+
+                       30       20  50             25 -- --
+
+Course prerequisites: Basic concepts of Discrete Mathematics, Data Communication and
+                            Networking
+
+Course Objectives:
+The objective of the course is to impart knowledge of foundation of Information theory – the theory
+that provides quantitative measures of information and allows us to analyze and characterize the
+fundamental limits of communication systems. It includes detailed knowledge of compression
+techniques and error control methods . The Course also covers concept of basic number theory
+which forms the foundation for the cryptography
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+   CO 1. Understand basics of Information Theory, Information Source and Channel.
+   CO 2. Illustrate different Data Compression algorithms.
+   CO 3. Demonstrate the concepts and techniques for error detection and correction.
+   CO 4. Apply basic number theory concepts for securing information.
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                               Page 46 of 63
+                                Somaiya Vidyavihar University
+                      K. J. Somaiya College of Engineering, Mumbai -77
+
+                        (A Constituent College of Somaiya Vidyavihar University)
+
+Module  Unit                          Details                                      Hrs.     CO
+  No.                                                                                       CO1
+    1   No.                                                                                 CO2
+    2                                                                                       CO3
+    3   Basics of Information Theory                                               6
+                                                                                            CO3
+    4   1.1 Introduction, Measure of Information, Entropy, Information
+                Rate.                                                                       CO4
+    5
+        1.2 Joint and Conditional Entropies, Mutual Information for two
+                discrete random variables.
+
+        1.3 Channel models, Channel Capacity, Shannon's Theorem
+
+        Source Codes                                                               10
+
+        2.1 Introduction, Coding Parameters, Source coding Theorem
+
+        2.2 Classification of Codes, Shannon-Fano coding, Huffman coding,
+                Arithmetic coding
+
+        2.3 LZW coding, Run Length Encoding, Image Compression
+
+        Error Control Code :Linear block code                                      10
+
+        3.1 Introduction, Types of codes, Types of Errors, Error Control
+                Strategies, Modular Arithmetic ,Use of Galois field and Primitive
+                root for generator polynomial
+
+        3.2 Linear block codes-Introduction, Generator matrices, Parity
+                check matrices.
+
+        3.3 Error syndrome, Error detection, Error detecting and error
+                correcting capability.
+
+        3.4 Standard Array and Syndrome, Decoding, Hamming Code.
+
+        Error Control Code: Cyclic code and Convolution code                       09
+
+        4.1 Cyclic codes- Introduction, Generation, Syndrome computation
+                and error detection, Decoding.
+
+        4.2 Hamming code- Error syndrome, Error Detection and correction,
+                Decoding, Extended Hamming Code, Golay code, Error
+                detection using Cyclic Redundancy check
+
+        4.3 Convolution codes- Introduction, Tree and Trellis Codes
+
+        4.4 Encoding, Decoding, Applications
+
+        Basics of Number Theory and Cryptography                                   10
+
+        5.1 Prime Number Generation, Random Number Generation.
+                Congruences, Solving Linear Congruences ax+by=d.
+
+        5.2 Chinese Remainder Theorem, Fermat's Little and Euler Theorem,
+                Quadratic Residue, Legendre and Jacobi Symbols
+
+        5.3 Shannon’s characteristics of good cipher, confusion and
+                diffusion, concepts of encryption, decryption.
+
+        5.4 Historical background, Transposition: row key and column key,
+                Substitution: Ceaser cipher (additive), Affine cipher (additive
+                and multiplicative), Polyalphabetic and Monoalphabetic Ciphers:
+                Vignere cipher.
+
+                                                                                  Total 45
+
+SVU2020- R1.0         SY B.Tech IT AC 28/06/2021                                   Page 47 of 63
+                                Somaiya Vidyavihar University
+                      K. J. Somaiya College of Engineering, Mumbai -77
+
+                        (A Constituent College of Somaiya Vidyavihar University)
+
+Recommended Books:
+
+Sr. Name/s of Author/s  Title of Book               Name of                       Edition and Year of
+
+No.                                                 Publisher                     Publication
+
+                                             with country
+
+1. ArijitSaha,Nilotpal Information Theory Pearson              First Edition
+
+     Manna,Surajit      Coding          and Education, 2013
+
+     Mandal             Cryptography         India
+
+2. Ranjan Bose          Information Theory TMH, India Third Edition
+
+                        Coding          and                    2016
+
+                        Cryptography
+
+3. Khalid Sayood        Introduction to Data Elsevier          Fourth                          Edition,
+
+                        Compression                            2013
+
+4. Trappe             and Introduction  to Pearson             Second Edition
+
+     Washington         Cryptography with Education, 2006
+
+                        Coding theory        India
+
+5. S Gravano            Introduction    to Oxford              First Edition 2007
+
+                        Error Control Codes University
+
+                                             Press
+
+6. William Stallings    Data and Computer Pearson              Eighth Edition, 2007
+
+                        Communications       Education,
+
+                                             India
+
+ Term-Work will consist of tutorial covering entire syllabus of “Information Theory
+    Coding” (116U04C402). Students will be graded based on continuous assessment of
+    their term work.
+
+SVU2020- R1.0           SY B.Tech IT AC 28/06/2021                                Page 48 of 63
+                                 Somaiya Vidyavihar University
+                       K. J. Somaiya College of Engineering, Mumbai -77
+
+                         (A Constituent College of Somaiya Vidyavihar University)
+
+Course Code                            Course Title
+116U04C403                       Analysis of Algorithms
+
+                       TH        P                 TUT                             Total
+                                                                                     3
+Teaching Scheme(Hrs.)  3         -                 -                                 3
+
+Credits Assigned       3         -                 -                               Total
+                                                                                    100
+                                                   Marks
+
+Examination Scheme        CA
+                                      ESE TW O P&O
+
+                       ISE IA
+
+                       30 20 50  - -- --
+
+Course prerequisites: Data Structures and Programming concepts
+
+Course Objectives:
+The objective of the course is to introduce the fundamentals of analysis of algorithms. The
+Specifications and process for algorithm analysis is covered using sample algorithms. The
+course helps understanding efficiency of algorithms and comparison of algorithms based on
+Efficiency. The course also covers different algorithm design strategies, along with examples.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+     CO 1. Analyze time and space complexity of basic algorithms
+     CO 2. Implement Greedy and Dynamic Programming algorithms
+     CO 3. Implement Backtracking and Branch-and-bound algorithms
+     CO4. Understand NP-Completeness concept
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                  Page 49 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit                     Details                                    Hrs. CO
+  No. No.
+
+1 Introduction to Algorithms                                               07 CO1
+
+1.1 Algorithms as a Technology, Analyzing and Designing
+        Algorithms, Rate of growth of functions, Asymptotic notations
+        and order of growth. Common running times: Linear, quadratic,
+        logarithmic etc. and its examples.
+
+1.2 Recurrence relations and methods to solve them: Recursion tree,
+        Substitution and Master Method. Probabilistic Analysis, The
+        Hiring Problem, Indicator Random Variables, Randomized
+        Algorithms
+
+2 Analysis of Basic Algorithms                                             12 CO1
+
+2.1 Insertion sort, Selection sort , Heap sort, Sorting in Linear Time,
+        Lower bounds for sorting, Counting Sort, Radix Sort
+
+2.2 Medians and Order Statistics: Minimum and Maximum,
+        Selection in expected Linear time, Selection in worst-case Linear
+        Time.
+
+2.3 Divide and Conquer: Quick sort, randomized Quick sort, Merge
+        sort, Strassen’s Matrix Multiplication Algorithm
+
+3 Greedy Algorithms and Dynamic Programming                                12 CO2
+
+3.1 The Greedy Approach, Kruskal’s algorithm for Minimum
+        Spanning Tree, Dijkstra’s algorithm Single Source Shortest Path,
+        Job Sequencing: With and Without Deadlines, Knapsack Problem
+        : 0/1 Knapsack
+
+               #Self-learning topic: Prim’s Algorithm for Minimum
+               Spanning Trees, Huffman Algorithm
+
+3.2 Dynamic Programming and Optimization problems, Optical
+        Binary Search Trees, Floyd-Warshall Algorithm for All Pair
+        Shortest Path, Longest Common Subsequence, Travelling
+        Salesman Problem
+
+               #Self-learning topic: Travelling Salesman Problem using
+               Greedy Approach and Dynamic Programming
+
+4 Backtracking and Branch and Bound Algorithms                             08 CO3
+
+4.1 The Backtracking Technique, N-Queens Problem, Hamiltonian
+        Circuit Problems, Sum of Subsets Problem,
+
+4.2 Travelling Salesman Problem, 15 Puzzle Problem and 0/1
+        Knapsack using Branch and Bound
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                  Page 50 of 63
+                              Somaiya Vidyavihar University
+                    K. J. Somaiya College of Engineering, Mumbai -77
+
+                      (A Constituent College of Somaiya Vidyavihar University)
+
+5 Computability Theory                                                                     06 CO4
+          5.1 NP and NP complete                                                Total 45
+          5.2 NP reducibility
+
+# Self-learning topics will be evaluated through IA and/or Lab.
+
+Recommended Books:
+
+Sr. Name/s of Author/s      Title of Book               Name of Publisher Edition and Year
+No.
+                                                        with country            of Publication
+
+1 T.H. Coreman ,            Introduction to             Prentice Hall India 3rd Edition
+      C.E. Leiserson,R.L.   algorithms
+      Rivest, and C. Stein                              Publication             2009
+
+2 Richard E.                Foundation of               Jones & Bartlett 5th Edition
+      Neapolitan            Algorithms                  Students Edition 2016
+
+3 Harsh Bhasin              Algorithms : Design & Oxford Higher 1st Edition
+
+4 Jon Kleinberg,            Analysis                    education, India        2013
+      Eva Tardos
+                            Algorithm Design            Pearson                 India 10th Edition 2013
+
+                                                        Education Services
+
+                                                        Pvt. Ltd.
+
+5 Jeffrey J. McConnell Analysis of Algorithms : Jones and Bartlett 2nd Edition 2017
+                                    An Active Learning Student Edition
+                                    Approach
+
+● Instructor needs to provide additional resources to students for in-depth understanding and
+  practical applicability of the indicated topic/topics.
+
+SVU2020- R1.0               SY B.Tech IT AC 28/06/2021                                Page 51 of 63
+                                 Somaiya Vidyavihar University
+                       K. J. Somaiya College of Engineering, Mumbai -77
+
+                         (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                               Course Title
+    116U04C404
+                                           Advanced Databases
+Teaching Scheme(Hrs.)
+    Credits Assigned           TH          P       TUT                             Total
+                                 3                                                   3
+ Examination Scheme              3         -       -                                 3
+
+                          CA               -       -                               Total
+                                      ESE                                           100
+                                                   Marks
+                       ISE IA
+                       30 20 50            TW O P&O
+                                             - -- --
+
+Course prerequisites: Knowledge of Database Management systems
+
+Course Objectives:
+The course will impart the skills that can help design and develop advanced database models.
+Students will be able to select appropriate advanced database model depending on the application
+requirement. This course will also make them aware of challenges and limitations while
+implementing the models. Further, the student will learn that how enterprise can organize and
+analyze large amounts of data by creating a data warehouse.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+   CO 1. Design advanced database systems using Parallel, Distributed and In-memory
+            databases and its implementation.
+
+   CO 2. Design advanced database systems using Object relational, Spatial and
+            NOSQL databases and its implementation.
+
+   CO 3. Understanding of data warehouse and its multi-dimensional modeling.
+   CO 4. Apply ETL processing and Online Analytical Processing on the warehouse data.
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                  Page 52 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+Module Unit                               Details                             Hrs. CO
+  No. No.
+
+1 ● Parallel and Distributed Databases
+
+1.1 Parallel Database Concepts, Parallel Query Evaluation
+
+1.2 Parallelizing Individual Operations-Sorting, Join
+
+1.3 Distributed Database - Concepts, Types , Architecture
+
+1.4 Distributed Database Design - Data Fragmentation, Replication,            10 CO 1
+
+               and Allocation Techniques
+
+1.5 Query Processing and Optimization in Distributed Databases.
+
+1.6 Concurrency Control and Recovery in Distributed Databases
+
+1.7 In-memory Databases : Architecture, in- memory database vs
+        disk residence database, practical applications of in-memory
+        databases, challenges of in-memory database.
+
+2 ● Object Based, Spatial Databases and NOSQL Databases
+
+2.1 Features Of Object based DBMS
+
+2.2 Database Design concepts for an ORDBMS
+
+2.3 Nested Relations and Collections                                          10 CO 2
+2.4 Spatial Database Components, Spatial Objects
+
+2.5 Spatial Dimensions, Spatial Relations, Spatial SQL Queries
+
+2.6 NOSQL databases: What is NOSQL? , NOSQL business drivers
+
+2.7 NOSQL data architectural patterns: Document type, Key-Value,
+        Graph and Column family
+
+3 ●Introduction to Data Warehousing and multi-dimensional Modeling
+
+3.1 Operational Vs Decisional Support System ,The Need for Data
+        Warehousing
+
+3.2 Data Warehouse Definition, Features , The Information Flow
+
+               Mechanism, Architecture , Role of Metadata, Classification of
+
+               Metadata                                                       10  CO 3
+
+3.3 Data Warehouse Vs Data Marts, Data Warehousing Design
+        Strategies, Data Warehouse Modeling Vs Operational Database
+        Modeling
+
+3.4 The Star Schema - Fact Tables and Dimension Tables, The Fact
+        less Fact Table, Keys in the Data Warehouse Schema- Primary
+
+SVU2020- R1.0            SY B.Tech IT AC 28/06/2021                           Page 53 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+        Keys, Surrogate Keys & Foreign Keys, The Snowflake Schema,
+        Fact Constellation Schema(Family of Stars)
+
+3.5 Updates To Dimension Tables - Slowly Changing Dimensions,
+        Type 1, Type 2 and Type 3 Changes, Large Dimensions , Rapidly
+        Changing Dimensions, Junk Dimensions, Aggregate Fact Tables
+
+          3.6 Data lake, Architecture of Data lake, Data Warehouse Vs Data
+                  lake
+
+4 ● ETL Process
+
+4.1 Introduction to ETL Process                                             09 CO4
+
+4.2 Data Extraction - Identification of Data Sources, Types -
+        Immediate Data Extraction and Deferred Data Extraction
+
+4.3 Data Transformation: Tasks Involved in Data Transformation
+
+4.4 Data Loading: Techniques, Loading the Fact Tables and
+        Dimension Tables
+
+4.5 Data Quality, Issues in Data Cleansing
+
+5 Online analytical processing (OLAP)                                       06 CO4
+
+5.1 Need for Online Analytical Processing; OLTP Vs OLAP, OLAP
+        and Multidimensional Analysis
+
+5.2 ● OLAP Operations in Multidimensional Data Model - Rollup,
+        Drill-down, Dice, Slice and Pivot
+
+5.3 OLAP Models: MOLAP, ROLAP, HOLAP
+
+                                                                           Total 45
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                   Page 54 of 63
+                                Somaiya Vidyavihar University
+                      K. J. Somaiya College of Engineering, Mumbai -77
+
+                        (A Constituent College of Somaiya Vidyavihar University)
+
+Recommended Books:
+
+Sr. Name/s of Author/s           Title of Book            Name of                 Edition and
+
+No.                                                       Publisher               Year of
+
+                                                          with country Publication
+
+ 1. Elmasri and Navathe    Fundamentals of Database Pearson                       7th Edition
+
+1.
+
+                           Systems                        Education               2015
+
+2. Korth,                  Database System Concepts McGraw – 6th Edition
+
+     Slberchatz,Sudarshan                                 Hill                    2010
+
+3. Raghu Ramakrishnan and Database Management McGraw Hill 3rd Edition
+
+     Johannes Gehrke       Systems                                                2002
+
+4. Paulraj Ponniah,        Data           Warehousing Wiley India 2nd Edition 2009
+
+                           Fundamentals:               A
+
+                           Comprehensive Guide for
+
+                           IT Professionals
+
+5. McCreary, D., and Kelly Making sense of NoSQL          Manning Press 2014
+
+● Instructor needs to provide additional resources to students for in-depth understanding and
+practical applicability of the indicated topic/topics.
+
+SVU2020- R1.0              SY B.Tech IT AC 28/06/2021                             Page 55 of 63
+                                 Somaiya Vidyavihar University
+                       K. J. Somaiya College of Engineering, Mumbai -77
+
+                         (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                             Course Title
+    116U04L401             Competitive Programming Laboratory
+
+Teaching Scheme(Hrs.)  TH  P                       TUT                             Total
+    Credits Assigned                                                                 4
+                       -   2                       2                                 3
+ Examination Scheme
+                       -   1                       2
+
+                                                   Marks
+
+                          CA                                                       Total
+                                     ESE TW O P&O
+
+                       ISE IA
+
+                       - - - 50 - 50                                               100
+
+Course prerequisites: Knowledge about any of the programming language, Data Structures
+
+Course Objectives:
+The major objective of the course is to develop the programmer with the comprehensive
+capabilities required for the efficient software development. It covers best practices required for the
+quick and optimized development of the most frequently used operations and algorithms belonging
+to different application domains.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+   CO1. Inculcate the best practices that are essential for competitive programming
+   CO2. Understand the fundamental concepts for managing the data using different data
+
+          structures such as lists, queues, trees etc.
+   CO3 . Understand the Graphs, related algorithms, efficient implementation of those
+
+          algorithms and applications
+   CO4. Learn effective computation and programming practices for numeric and string
+
+         operations and computation geometry
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                                         Page 56 of 63
+                                Somaiya Vidyavihar University
+                      K. J. Somaiya College of Engineering, Mumbai -77
+
+                        (A Constituent College of Somaiya Vidyavihar University)
+
+Module  Unit                       Details                                        Hrs. CO
+  No.
+    1   No.
+    2
+        Best practices for Competitive programing                                 05 CO1
+    3
+        1.1 Mastering the programming language, efficient testing and
+    4           debugging
+    5
+        1.2 Quick identifying problem type, Algorithm analysis, time
+                complexity, calculation rules, common time complexities,
+
+               estimated efficiency, examples
+
+        Optimization of Data Structures and Algorithms                            08 CO2
+
+        2.1 Optimized implementation of Arrays, Dynamic arrays, single,
+
+               doubly linked list
+
+        2.2 Optimized implementation of Stack, queue, priority queue, tree,
+                Tree traversal, Optimized binary search tree (OBST), Heap, Hash
+                tables, Set and Map structures, Trie structure
+                Segment Trees using Lazy Propagation, Fenwick Trees or Binary
+                Indexed Trees, Applications of Fenwick and Segment Trees,
+                Heavy light Decomposition, Sparse table algorithm
+
+        2.3 Basic concepts of Greedy programming, coin problems
+                , scheduling, data compression, knapsack problem
+
+        2.4 Basic concepts of dynamic programming, coin problems, longest
+                increasing subsequence, knapsack problem
+
+        Strings, Arithmetic and Algebra operations                                08 CO3
+
+        3.1 Introduction to Strings, Arithmetic and Algebra operations and its
+
+               applications
+
+               Character codes, representing strings
+
+        3.2 Searching, Pattern searching, String manipulation, string merging
+                , pruning search, generating subsets, generating permutations
+
+        3.3 Number theory, primes and factors, modular arithmetic, Program
+                arithmetic operations on rationals, Algebra: square root
+                algorithms – combining algorithms, Logarithm, Basic counting
+                techniques, Other Counting Sequences
+
+        3.4 Recurrence Relations, Binomial Coefficients, Recursion and
+                Induction Problems
+
+        Graphs                                                                    05 CO3
+
+        4.1 Introduction to Graph theory and applications, Data structure for
+
+               graphs, Traversal: Breadth first and Depth first
+
+        4.2 Dijkstra’s Shortest path algorithm, Kruskals algorithm for
+
+               spanning trees, topological sorting, Cycle detection, all longest
+
+               paths
+
+        Computational Geometry                                                    04 CO4
+
+        5.1 Introduction to Computational Geometry and its applications,
+
+               Line segment and intersections, Polygon and angle computation
+
+        5.2 Algorithms on Grids
+
+                                                                                  Total 30
+
+SVU2020- R1.0         SY B.Tech IT AC 28/06/2021                                  Page 57 of 63
+                              Somaiya Vidyavihar University
+                    K. J. Somaiya College of Engineering, Mumbai -77
+
+                      (A Constituent College of Somaiya Vidyavihar University)
+
+ Term-Work will consist of Tutorials and laboratory work covering entire syllabus and
+    a Mini Project developed incorporating all the technical skills learned in “Competitive
+    Programming Laboratory” (116U04L401), Students will be graded based on
+    continuous assessment of their laboratory work; one of the assessment will be of 10
+    marks which may be conducted using any of the online platforms available to evaluate
+    the best programming practices such as HackerRank, LeetCode, CodeChef etc.
+
+ Practical and oral Examination will be based on laboratory work and entire syllabus of
+    “Competitive Programming Laboratory” (116U04L401).
+
+Recommended Books:
+
+Sr.  Name/s of          Title of Book                       Name of             Edition and Year of
+
+No.  Author/s                                           Publisher with          Publication
+
+                                                            country
+
+    1. Antti        Guide to Competitive                Springer        2018
+
+1.
+
+     Laaksonen      Programming
+
+2. Gayle            Cracking the Coding                 CareerCup,      2015
+
+     Laakmann       Interview                           LLC
+
+     McDowell
+
+3. Steven S.        Programming challenges Springer                     2006
+
+     Skiena Miguel The
+
+     A. Revilla     Programming Contest
+
+                    Training Manual
+
+4. Antti            Competitive                         --              Hand book, 2018
+
+     Laaksonen      Programmer’s
+
+                    Handbook
+
+5. Steven Halim Competitive                             --              Handbook for ACM ICPC
+
+     and Felix Halim Programming 3: The                                 And                    IOI
+
+                    Lower Bounds of                                     CONTESTANTS 2013
+
+                    Programming
+
+                    Contests
+
+● Instructor needs to provide additional resources to students for in-depth understanding and
+
+practical applicability of the indicated topic/topics.
+
+SVU2020- R1.0           SY B.Tech IT AC 28/06/2021                              Page 58 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+        Course Code                     Course Title
+    116U04L402             Web Programming I Laboratory
+
+Teaching Scheme(Hrs.)  TH  P                       TUT                     Total
+    Credits Assigned                                                         4
+                       -   2                       2                         3
+ Examination Scheme
+                       -   1                       2
+
+                                                   Marks
+
+                          CA                                               Total
+                                     ESE TW O P&O
+
+                       ISE IA
+
+                       - - - 50 - 50                                       100
+
+Course prerequisites: Knowledge of Programming language
+
+Course Objectives:
+The objective of this project-driven course is to acquaint with necessary techniques for developing
+client/server applications. The course will introduce concept of HTML and CSS to create and
+maintain Web pages, grid layout and responsive web page. Students will be familiarizing with
+Document Object Model to learn how browser represents web page. In addition, the course will
+make students conversant with JavaScript, ReactJS, JSON.
+
+Course Outcomes
+At the end of successful completion of the course the student will be able to
+
+    CO1: Comprehend basics of web technologies
+    CO2: Create Web pages using HTML 5 and CSS
+    CO3: Apply JavaScript and JSON for web application development
+    CO4: web application using ReactJS
+
+SVU2020- R1.0          SY B.Tech IT AC 28/06/2021                               Page 59 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+Module  Unit                              Details                             Hrs. CO
+  No.
+    1   No.
+
+    2   Introduction to web technologies                                      02 CO1
+
+    3   1.1 Introduction to OSI layers, Web system architecture-
+    4            1,2,3 and n tier architecture, URL, domain
+
+               name system, overview of HTTP
+
+        1.2 Planning a Web Site – Objective and Goals, Audience,
+
+               Organizing contents, Publishing of Web
+
+               Site , Function of Web Server ,Introduction to user interface
+
+               #Self-learning topic: Working of Web Browser,
+               Introduction to Internet Application Protocols – FTP,
+               Telnet, SMTP
+
+        Web Page Creation with HTML 5 and CSS3                                09  CO2
+
+        2.1 Formatting and Fonts, Anchors, Backgrounds, images,                   CO1
+                Hyperlinks, Lists, Tables                                         CO3
+
+        2.2 HTML5, New Element, Forms, Audio and Video, HTML5
+                Canvas, SVG in HTML5, Google Map, Geolocation, Web
+                storage, Web Worker, Application cache
+
+        2.3 Understanding the need for CSS, Basic syntax and structure
+                using CSS, Positioning using CSS, Apply styles to Box
+                Model Class and ID
+
+        2.4 Create a flexible content layout, Implement a layout using
+                multi-column; implement a layout using position floating,
+                implement a layout using grid alignment
+
+        2.5 Responsive Web page , Web accessibility
+
+               #Self-learning topic - HTML <Meta Tag>, Introduction to
+               XHTML
+
+        Introduction to XML                                                   02
+
+        3.1 Syntax, Document structure, Document type
+                definitions, Namespaces, XML schemas, Displaying raw
+                XML documents, XSLT,XML Parsing
+
+               #Self-learning topic - Using XML as Database
+
+        Working with JavaScript and JSON                                      08
+
+        4.1 Introduction to JavaScript with variables, Types, operators,
+                conditions ,functions
+
+        4.2 JavaScript Object, Array, Regular Expression, Event
+                Handling
+
+        4.3 Comprehending advanced Javascript functions-Closures,
+                Callback, Promise and Arrow Functions
+
+        4.4 The DOM and the Web browser Environment, DOM
+                Manipulation
+
+        4.5 Data handling with JSON – Data types, Objects, Arrays, JSON
+                Parse, Stringify
+
+        4.6 Introduction to CBOR, JSON Vs. CBOR
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                     Page 60 of 63
+                              Somaiya Vidyavihar University
+                    K. J. Somaiya College of Engineering, Mumbai -77
+
+                      (A Constituent College of Somaiya Vidyavihar University)
+
+5         Introduction to ReactJS                                               09 CO4
+
+          5.1 Evolutiion of React, Classes, ES6 Modules, Functional
+                  programming with Javascript
+
+          5.2 React page setup, React Elements, React components
+
+          5.3 React elements as JSX, Bable, Recipies as JSX, React
+                  Fragments
+
+          5.4 Working with webpack
+                                                                                        Total 30
+
+ Students should prepare all self-learning topics on their own. Self-learning topics
+    will enable students to gain extended knowledge of the topic. Assessment of these
+    topics may be included in term work and Laboratory.
+
+ Term-Work will consist of Tutorials and laboratory work covering entire syllabus.
+    Students will be graded based on continuous assessment of their term work.
+    Practical and Oral examination based on laboratory experiments and entire syllabus
+
+Recommended Books:
+
+Sr. Name/s of               Title of Book             Name of Publisher          Edition and
+No. Author/s                                             with country              Year of
+
+ 1 Kogent           HTML 5 Black Book: Covers         DreamTech                  Publication
+                                                      Press,India               2nd Edition,
+1.                                                                              2016
+                                                       O'Reilly Media
+   Learning         CSS3, JavaScript, XML,                                      5th Edition,
+                                                      O'Reilly                  2018
+   Solutions        XHTML, AJAX, PHP and              Media, Inc                7th Edition,
+                                                      DreamTech                 2020
+   Inc.,            jQuery                            Press,India               2013
+
+2 Robin Nixon Learning PHP, MySQL &                    O'Reilly Media           2nd Edition,
+                                                                                2020
+                    JavaScript: With jQuery, CSS &
+
+                    HTML5
+
+3 Flanagan,         JavaScript: the definitive guide
+
+   David
+
+4 Kogent            Web Technologies: HTML,
+
+   Learning         JAVASCRIPT, PHP, JAVA, JSP,
+
+   Solutions Inc., ASP.NET, XML and Ajax, Black
+
+                    Book: HTML, Javascript, PHP,
+
+                    Java, Jsp, XML and Ajax, Black
+
+                    Book
+
+5 Alex Banks, Learning React
+
+   Eve Porcello
+
+● Instructor needs to provide additional resources to students for in-depth understanding and
+practical applicability of the indicated topic/topics.
+
+SVU2020- R1.0             SY B.Tech IT AC 28/06/2021                            Page 61 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                            Course Title
+    116U04L403
+                       Analysis of Algorithms Laboratory
+Teaching Scheme(Hrs.)
+    Credits Assigned   TH                  P TUT Total
+
+ Examination Scheme    -                   2                               -  2
+
+                       -                   1                               -  1
+
+                                           Marks
+
+                          CA                                                  Total
+                                     ESE TW O P&O
+
+                       ISE IA
+
+                       - - - 25 - 25                                          50
+
+ Term-Work will consist of practical covering entire syllabus of “Analysis of
+    Algorithms Laboratory” (116U04C403). Students will be graded based on continuous
+    assessment of their term work.
+
+ Practical and Oral Examination will be based on laboratory work and entire theory
+    syllabus of “Analysis of Algorithms Laboratory” (116U04C403).
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                     Page 62 of 63
+                         Somaiya Vidyavihar University
+               K. J. Somaiya College of Engineering, Mumbai -77
+
+                 (A Constituent College of Somaiya Vidyavihar University)
+
+    Course Code                     Course Title
+    116U04L404         Advanced Databases Laboratory
+
+Teaching Scheme(Hrs.)  TH                  P TUT Total
+    Credits Assigned
+                       -                   2                               -  2
+ Examination Scheme
+                       -                   1                               -  1
+
+                                           Marks
+
+                          CA
+                                     ESE TW O P&O Total
+
+                       ISE IA
+
+                       - - - 25 - 25                                          50
+
+ Term-Work will consist of practical covering entire syllabus of “Advanced Databases”
+    (116U04C404). Students will be graded based on continuous assessment of their term
+    work.
+
+ Practical and Oral Examination will be based on laboratory work and entire theory
+    syllabus of “Advanced Databases” (116U04C404).
+
+SVU2020- R1.0  SY B.Tech IT AC 28/06/2021                                     Page 63 of 63
+
